@@ -7,7 +7,7 @@ adresi kullanılabilir.
 ●	Java 11 kullanımıştır.
 ●	Uygulama Spring Boot ile yapılmıştır.
 ●	Uygulama Three-tier architecture (Katmanlı mimari) yapısına uygun tasarlanmıştır.
-●   Collection Framework ile sorulardaki belirtilen aşamalar gerçekleştirilmiştir.
+●   Collection Framework ile aşamalar gerçekleştirilmiştir.
 ●	Javadoc yazımına dikkat edilmiştir.
 ●	Geliştirilmiş olan demo uygulama dokümante edilmiştir.
 
